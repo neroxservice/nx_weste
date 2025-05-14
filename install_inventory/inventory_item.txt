@@ -1,0 +1,47 @@
+--[[ Deutsche installationshilfe für das kleine Skriptchen xD 
+
+
+Item in ox_inventory/shared/items.lua einfügen und auf Kommas achten.
+
+Das Bild einfügen in der ox_inventory/web/images einfügen ]]
+
+['warnweste']            = {
+    ["name"] = 'warnweste',
+    ["label"] = "Warnweste",
+    ["weight"] = 3000,
+    ["type"] = "item",
+    ["image"] = "warnweste.png",
+    ["unique"] = true,
+    ["useable"] = true,
+    ["shouldClose"] = true,
+    ["description"] = "Eine Warnweste zum überwerfen"
+},
+
+['pwarnweste']            = {
+    ["name"] = 'pwarnweste',
+    ["label"] = "Pol Warnweste",
+    ["weight"] = 3000,
+    ["type"] = "item",
+    ["image"] = "pwarnweste.png",
+    ["unique"] = true,
+    ["useable"] = true,
+    ["shouldClose"] = true,
+    ["description"] = "Eine Warnweste zum überwerfen"
+},
+
+--[[ English Installation Help 
+
+Insert the item in ox_inventory/shared/items.lua and pay attention to commas.
+Add the image to ox_inventory/web/images. ]]
+
+['warnweste']            = {
+    ["name"] = 'warnweste',
+    ["label"] = "Warnweste",
+    ["weight"] = 3000,
+    ["type"] = "item",
+    ["image"] = "warnweste.png",
+    ["unique"] = true,
+    ["useable"] = true,
+    ["shouldClose"] = true,
+    ["description"] = ""
+},
