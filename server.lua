@@ -33,7 +33,7 @@ local cyan = "\27[36m"
 local red = "\27[31m"
 local reset = "\27[0m"
 
-local currentVersion = "v1.0.2"
+local currentVersion = "1.0.2"
 
 local githubUser = "neroxservice"
 local githubRepo = "nx_weste"
