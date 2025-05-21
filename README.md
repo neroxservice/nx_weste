@@ -1,6 +1,6 @@
 # 🚑 nx_weste
 
-**`nx_EmergencyResponse`** ist ein leistungsstarkes und Performance schonendes Westen Script für dein RolePlay Server.  
+**`nx_weste`** ist ein leistungsstarkes und Performance schonendes Westen Script für dein RolePlay Server.  
 Es sind 2 Westen beinhalten und jederzeit weitere einfügbar.
 Dieses Script ist per Item angebunden und ist nur ein Script zum anziehen einer Warnweste oder Polizei-Warnweste für das realistische Roleplay eines Unfalles.
 
