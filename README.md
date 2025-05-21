@@ -18,7 +18,7 @@ Dieses Script ist per Item angebunden und ist nur ein Script zum anziehen einer 
 
 ### 📦 Kompatibilität mit folgenden Frameworks
 - Unterstützung für [**QBCore**](https://github.com/qbcore-framework/qb-core)
-- [**QB-Clothing**](# 🚑 nx_EmergencyResponse
+- [**QB-Clothing**](https://github.com/qbcore-framework/qb-clothing)
 
 **`nx_EmergencyResponse`** ist ein leistungsstarkes, immersives und vollständig dynamisches Sanitäter-Jobscript für FiveM-Server, das sowohl Gameplay als auch Serververwaltung auf ein neues Level hebt.  
 Es simuliert automatisierte Notrufe mit zufälligen Wartezeiten, sorgt für ein realistisches Einsatzgefühl und enthält moderne Entwickler-Tools wie automatische Versionserkennung.
